@@ -9,3 +9,5 @@ examples*
 build
 *.egg-info/
 *.zip
+venv/
+checkpoints/
